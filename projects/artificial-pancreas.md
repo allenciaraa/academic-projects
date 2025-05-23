@@ -1,6 +1,6 @@
 # Glucose Monitoring and Meal Detection in Artificial Pancreas Systems
 
-## Overviewg
+## Overview
 
 This project investigates the use of data science and machine learning techniques to analyze continuous glucose monitoring (CGM) and insulin pump data, with the overarching goal of improving glycemic control and automation in artificial pancreas systems. By leveraging real-world datasets, the work encompasses a range of tasks including time-series analysis, supervised classification, and unsupervised clustering, ultimately generating insights with medical relevance to diabetes management.
 
