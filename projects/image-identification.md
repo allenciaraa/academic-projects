@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores two distinct yet complementary machine learning approaches—probabilistic modeling and deep learning—for the classification of handwritten digits using the MNIST dataset. The aim is to understand and compare traditional feature-based classification with modern end-to-end learning through convolutional neural networks (CNNs). The implementation spans supervised learning with a Naive Bayes classifier for binary classification, and a deep learning pipeline using a CNN for multi-class classification, highlighting the evolution of algorithmic complexity in solving visual recognition tasks.
+This project explores two distinct yet complementary machine learning approaches (probabilistic modeling and deep learning) for the classification of handwritten digits using the MNIST dataset. The aim is to understand and compare traditional feature-based classification with modern end-to-end learning through convolutional neural networks (CNNs). The implementation spans supervised learning with a Naive Bayes classifier for binary classification, and a deep learning pipeline using a CNN for multi-class classification, highlighting the evolution of algorithmic complexity in solving visual recognition tasks.
 
 ## Project Summary
 
@@ -30,4 +30,4 @@ This project served as a deep dive into both the theoretical foundations and pra
 
 ## Why I Loved This Project
 
-I loved this project because it gave me a hands-on understanding of how convolutional neural networks (CNNs) perform image classification It was amazing to see how convolutional filters were essentially small frames that can learn to identify patterns like edges, shapes, and textures within handwritten digits. Digging into the underlying math and logic behind each layer of the network helped me appreciate the elegance and complexity of these models. It’s truly inspiring to explore, at a fundamental level, how such powerful algorithms are constructed and refined. This project not only deepened my technical knowledge but also reinforced my passion for machine learning and computer vision.
+I loved this project because it gave me a hands-on understanding of how convolutional neural networks (CNNs) perform image classification. It was amazing to see how convolutional filters were essentially small frames that can learn to identify patterns like edges, shapes, and textures within handwritten digits. Digging into the underlying math and logic behind each layer of the network helped me appreciate the elegance and complexity of these models. It’s truly inspiring to explore, at a fundamental level, how such powerful algorithms are constructed and refined. This project not only deepened my technical knowledge but also reinforced my passion for machine learning.
